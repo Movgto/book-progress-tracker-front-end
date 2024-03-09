@@ -65,7 +65,7 @@ Clone this repository to your desired folder by running the following commands i
 ```sh
   cd your-prefered-folder-name
   
-  git clone https://github.com/Movgto/react-redux-bookstore.git
+  git clone https://github.com/Movgto/book-progress-tracker-front-end.git
 ```
 
 ### Install
@@ -73,7 +73,7 @@ Clone this repository to your desired folder by running the following commands i
 - Install this project with:
 
 ```sh
-  cd react-redux-bookstore
+  cd book-progress-tracker-front-end
 
   npm install or npm i
 ```
@@ -94,7 +94,7 @@ To run the project, execute the following command:
 
 ### Backend
 
-For the backend setup look [here]()
+For the backend setup look [here](https://github.com/Movgto/book-progress-tracker-back-end)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

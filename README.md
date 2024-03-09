@@ -8,6 +8,7 @@
     - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
+- [📺 Live Demo](#live-demo)
 - [👥 Authors](#authors)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
@@ -94,6 +95,14 @@ To run the project, execute the following command:
 ### Backend
 
 For the backend setup look [here]()
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📺 Live demo <a name="live-demo"></a>
+
+Link to live demo [here](https://movgto.github.io/book-progress-tracker-front-end)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
 

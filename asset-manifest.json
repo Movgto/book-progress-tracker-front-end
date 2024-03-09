@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/book-progress-tracker-front-end/static/css/main.8f4e6711.css",
+    "main.js": "/book-progress-tracker-front-end/static/js/main.c6e7d103.js",
+    "index.html": "/book-progress-tracker-front-end/index.html",
+    "main.8f4e6711.css.map": "/book-progress-tracker-front-end/static/css/main.8f4e6711.css.map",
+    "main.c6e7d103.js.map": "/book-progress-tracker-front-end/static/js/main.c6e7d103.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f4e6711.css",
+    "static/js/main.c6e7d103.js"
+  ]
+}

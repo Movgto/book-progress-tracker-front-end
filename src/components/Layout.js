@@ -11,7 +11,7 @@ const Layout = () => {
   useEffect(() => {
     dispatch(getCurrentUser()).then(({ payload }) => {
       console.log(payload);
-      if (payload == 'Request failed with status code 401') {
+      if (payload == 'Request failed with status code 401' || null) {
         navigate('/login');
       }
     });
